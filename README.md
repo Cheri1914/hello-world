@@ -8,3 +8,9 @@ This is a standard paragraph.
 
 ### Continuing to pretend, doing a heading 3
 #### hmm now 4 maybe? 
+
+**bold**
+
+_italise_
+
+This will not appear directly
